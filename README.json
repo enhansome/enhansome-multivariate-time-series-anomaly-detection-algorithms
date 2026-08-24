@@ -1,7 +1,1940 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "KDD '24 SensitiveHUE Multivariate Time Series Anomaly Detection by Enhancing the Sensitivity to Normal Patterns SensitiveHUE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 785622235,
+            "language": "Python",
+            "last_commit": "2024-04-20T16:47:20Z",
+            "owner": "yuesuoqingqiu",
+            "repo": "SensitiveHUE",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "KDD '24 PATE: Proximity-Aware Time Series Anomaly Evaluation PATE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 802521792,
+            "language": "Python",
+            "last_commit": "2024-12-19T14:12:56Z",
+            "owner": "Raminghorbanii",
+            "repo": "PATE",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "KDD '24 CutAddPaste Time Series Anomaly Detection by Exploiting Abnormal Knowledge CutAddPaste",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 808587457,
+            "language": "Python",
+            "last_commit": "2026-07-04T03:09:06Z",
+            "owner": "ruiking04",
+            "repo": "CutAddPaste",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "KDD '24 Pre-trained KPI Anomaly Detection Model Through Disentangled Transformer KAD-Disformer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 703992478,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-13T08:23:33Z",
+            "owner": "NetManAIOps",
+            "repo": "KAD-Disformer",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "KDD '24 EntropyStop Unsupervised Deep Outlier Detection with Loss Entropy EntropyStop-KDD2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 807922087,
+            "language": "Python",
+            "last_commit": "2025-03-16T16:27:29Z",
+            "owner": "goldenNormal",
+            "repo": "EntropyStop-KDD2024",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "KDD '24 Cluster-Wide Task Slowdown Detection in Cloud System SORN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 828368899,
+            "language": "Python",
+            "last_commit": "2024-07-13T23:41:28Z",
+            "owner": "gyhswtxnc",
+            "repo": "SORN",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "WWW '24 Revisiting VAE for Unsupervised Time Series Anomaly Detection A Frequency Perspective FCVAE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 750323786,
+            "language": "Python",
+            "last_commit": "2024-02-27T07:23:02Z",
+            "owner": "CSTCloudOps",
+            "repo": "FCVAE",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "WWW '24 Breaking the Time-Frequency Granularity Discrepancy in Time-Series Anomaly Detection DualTF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 640516572,
+            "language": "Python",
+            "last_commit": "2025-04-30T04:23:33Z",
+            "owner": "kaist-dmlab",
+            "repo": "DualTF",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "WWW '24 Supervised Fine-Tuning for Unsupervised KPI Anomaly Detection for Mobile Web Systems AnoTuner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 704477559,
+            "language": "Python",
+            "last_commit": "2023-10-25T07:29:51Z",
+            "owner": "NetManAIOps",
+            "repo": "AnoTuner",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "WWW '24 Weakly Supervised Anomaly Detection via Knowledge-Data Alignment KDAlign",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 754758594,
+            "language": null,
+            "last_commit": "2024-02-08T18:03:57Z",
+            "owner": "cshhzhao",
+            "repo": "KDAlign",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "VLDB '24 An Experimental Evaluation of Anomaly Detection in Time Series experiment-tsad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 475935874,
+            "language": "Java",
+            "last_commit": "2023-11-27T11:55:48Z",
+            "owner": "zaqthss",
+            "repo": "experiment-tsad",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "VLDB '24 ADF & TransApp A Transformer-Based Framework for Appliance Detection Using Smart Meter Consumption Series TransApp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633877077,
+            "language": "Python",
+            "last_commit": "2025-02-12T11:32:26Z",
+            "owner": "adrienpetralia",
+            "repo": "TransApp",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "VLDB '24 A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis MSD-Mixer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 671939258,
+            "language": "Python",
+            "last_commit": "2024-08-26T10:44:11Z",
+            "owner": "zshhans",
+            "repo": "MSD-Mixer",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "VLDB '24 AutoTSAD: Unsupervised Holistic Anomaly Detection for Time Series Data autotsad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 702886043,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-25T09:30:52Z",
+            "owner": "HPI-Information-Systems",
+            "repo": "AutoTSAD",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "VLDB '24 METER A Dynamic Concept Adaptation Framework for Online Anomaly Detection METER",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628500390,
+            "language": "Python",
+            "last_commit": "2024-07-24T13:42:49Z",
+            "owner": "zjiaqi725",
+            "repo": "METER",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "VLDB '24 ImDiffusion Imputed Diffusion Models for Multivariate Time Series Anomaly Detection IMDiffusion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 652562972,
+            "language": "Python",
+            "last_commit": "2023-07-10T10:38:32Z",
+            "owner": "17000cyh",
+            "repo": "IMDiffusion",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "ICDE '24 Unraveling the 'Anomaly' in Time Series Anomaly Detection A Self-supervised Tri-domain Solution TriAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 721578064,
+            "language": "Python",
+            "last_commit": "2024-04-01T00:41:53Z",
+            "owner": "pseudo-Skye",
+            "repo": "TriAD",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "ICDE '24 From Chaos to Clarity Time Series Anomaly Detection in Astronomical Observations AERO",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 724165724,
+            "language": "Python",
+            "last_commit": "2024-09-28T10:44:39Z",
+            "owner": "XinliHao",
+            "repo": "AERO",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "ICDE '24 Temporal-Frequency Masked Autoencoders for Time Series Anomaly Detection TFMAE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 727120035,
+            "language": "Python",
+            "last_commit": "2024-07-26T14:50:07Z",
+            "owner": "LMissher",
+            "repo": "TFMAE",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "Neurips '24 Drift doesn't Matter Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection D3R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 701714180,
+            "language": "Python",
+            "last_commit": "2025-07-15T03:23:13Z",
+            "owner": "ForestsKing",
+            "repo": "D3R",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "IJCAI '24 Sub-Adjacent Transformer Improving Time Series Anomaly Detection with Reconstruction Error from Sub-Adjacent Neighborhoods sub_adjacent_transformer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 888480644,
+            "language": "Python",
+            "last_commit": "2024-11-14T13:28:51Z",
+            "owner": "jackyue1994",
+            "repo": "sub_adjacent_transformer",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "ICASSP '24 Unravel Anomalies: An End-to-end Seasonal-Trend Decomposition Approach for Time Series Anomaly Detection TADNet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 731449807,
+            "language": "Python",
+            "last_commit": "2024-04-18T16:28:29Z",
+            "owner": "zhangzw16",
+            "repo": "TADNet",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "IEEE TKDE '24 Deep Isolation Forest for Anomaly Detection DeepOD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 558766124,
+            "language": "Python",
+            "last_commit": "2025-07-24T13:43:54Z",
+            "owner": "xuhongzuo",
+            "repo": "DeepOD",
+            "stars": 576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "IEEE TKDE '24 Calibrated One-class Classification for Unsupervised Time Series Anomaly Detection couta",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 516941730,
+            "language": "Python",
+            "last_commit": "2025-07-25T01:00:20Z",
+            "owner": "xuhongzuo",
+            "repo": "couta",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "ACM Trans. Softw. Eng. Methodol. '24 Efficient Multivariate Time Series Anomaly Detection Through Transfer Learning for Large-Scale Software Systems Efficient Multivariate Time Series Anomaly Detection Through Transfer Learning for Large-Scale Software Systems.zip",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 438472359,
+            "language": "Python",
+            "last_commit": "2022-02-26T07:01:31Z",
+            "owner": "alumik",
+            "repo": "AnoTransfer-code",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "IEEE TIM '24 Asymptotic Consistent Graph Structure Learning for Multivariate Time-Series Anomaly Detection ACGSL-for-MTS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752574866,
+            "language": "Python",
+            "last_commit": "2024-08-01T03:24:26Z",
+            "owner": "xinhuaxi",
+            "repo": "ACGSL-for-MTS",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "IEEE IoT J '24 DyEdgeGAT Dynamic Edge via Graph Attention for Early Fault Detection in IIoT Systems dyedgegat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 662677317,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-07T12:50:39Z",
+            "owner": "MengjieZhao",
+            "repo": "dyedgegat",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "Information Sciences '24 Refining one-class representation A unified transformer for unsupervised time-series anomaly detection AMFormer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 606407630,
+            "language": "Python",
+            "last_commit": "2023-03-02T04:24:17Z",
+            "owner": "zhongguoxiang",
+            "repo": "AMFormer",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "Information Fusion '24 Graph Spatiotemporal Process for Multivariate Time Series Anomaly Detection with Missing Values GST-Pro (comming soon)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 735491553,
+            "language": null,
+            "last_commit": "2023-12-25T07:43:03Z",
+            "owner": "huankoh",
+            "repo": "GST-Pro",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "KBS '24 AFMF Time series anomaly detection framework with modified forecasting AFMF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 590707625,
+            "language": "Python",
+            "last_commit": "2024-03-06T10:57:00Z",
+            "owner": "OrigamiSL",
+            "repo": "AFMF",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "Applied Energy '24 Sensing anomaly of photovoltaic systems with sequential conditionalvariational autoencoder PV-system-anomaly-detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 418070997,
+            "language": "Python",
+            "last_commit": "2023-05-18T12:21:11Z",
+            "owner": "dinglee17",
+            "repo": "PV-system-anomaly-detection",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "Nerual Networks '24 A filter-augmented auto-encoder with learnable normalization for robust multivariate time series anomaly detection NormFAAE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 721201214,
+            "language": "Python",
+            "last_commit": "2024-06-04T09:08:35Z",
+            "owner": "ML918",
+            "repo": "NormFAAE",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "Nerual Networks '24 GRAND GAN-based software runtime anomaly detection method using trace information GRAND , dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 580278070,
+            "language": "Python",
+            "last_commit": "2022-12-20T06:52:12Z",
+            "owner": "grandpaper",
+            "repo": "GRAND",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "Arxiv '24 TimeSeriesBench An Industrial-Grade Benchmark for Time Series Anomaly Detection Models EasyTSAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 700229444,
+            "language": "Python",
+            "last_commit": "2025-05-12T05:14:58Z",
+            "owner": "dawnvince",
+            "repo": "EasyTSAD",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2024",
+          "description": "Arxiv '24 Entropy Causal Graphs for Multivariate Time Series Anomaly Detection CGAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 708385645,
+            "language": "Python",
+            "last_commit": "2024-11-30T00:04:41Z",
+            "owner": "falihgoz",
+            "repo": "CGAD",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "2024"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "AAAI Detecting Multivariate Time Series Anomalies with Zero Known Label MTGFLOW",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 557232344,
+            "language": "Python",
+            "last_commit": "2024-07-26T02:44:17Z",
+            "owner": "zqhang",
+            "repo": "MTGFLOW",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ACM SC Prodigy Towards Unsupervised Anomaly Detection in Production HPC Systems Proctor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 359905182,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-08-12T23:22:23Z",
+            "owner": "peaclab",
+            "repo": "Proctor",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ArXiv DTAAD Dual Tcn-Attention Networks for Anomaly Detection in Multivariate Time Series Data DTAAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 581734690,
+            "language": "Python",
+            "last_commit": "2024-04-29T06:47:25Z",
+            "owner": "Yu-Lingrui",
+            "repo": "DTAAD",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ArXiv Time Series Anomaly Detection using Diffusion-based Models DiffusionAE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 622933526,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-20T17:54:25Z",
+            "owner": "fbrad",
+            "repo": "DiffusionAE",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ASE (CCF A) Twin Graph-based Anomaly Detection via Attentive Multi-Modal Learning for Microservice System MSTGAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 684919107,
+            "language": "Python",
+            "last_commit": "2023-10-25T10:24:49Z",
+            "owner": "alipay",
+            "repo": "microservice_system_twin_graph_based_anomaly_detection",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "CIKM DuoGAT: Dual Time-oriented Graph Attention Networks for Accurate, Efficient and Explainable Anomaly Detection on Time-series DuoGAT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 675925507,
+            "language": "Python",
+            "last_commit": "2025-05-23T14:03:36Z",
+            "owner": "ByeongtaePark",
+            "repo": "DuoGAT",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "DMKD Navigating the metric maze a taxonomy of evaluation metrics for anomaly detection in time series TSAD_eval",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 574374552,
+            "language": "Python",
+            "last_commit": "2023-03-06T09:46:32Z",
+            "owner": "sondsorb",
+            "repo": "TSAD_eval",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ECML-PKDD Context-Aware Deep Time-Series Decomposition for Anomaly Detection in Businesses Time-CAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 438461261,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-09-22T08:21:27Z",
+            "owner": "kaist-dmlab",
+            "repo": "Time-CAD",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ESEC/FSE Beyond Sharing Conflict-Aware Multivariate Time Series Anomaly Detection MTS_CAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 594699313,
+            "language": "Python",
+            "last_commit": "2023-07-28T08:32:52Z",
+            "owner": "dawnvince",
+            "repo": "MTS_CAD",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ICASSP DEEP AUTOENCODING ONE-CLASS TIME SERIES ANOMALY DETECTION AOC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 739866059,
+            "language": "Python",
+            "last_commit": "2024-01-06T20:01:40Z",
+            "owner": "alsike22",
+            "repo": "AOC",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ICASSP STGAT-MAD SPATIAL-TEMPORAL GRAPH ATTENTION NETWORK FOR MULTIVARIATE TIME SERIES ANOMALY DETECTION STGAT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 410208222,
+            "language": "Python",
+            "last_commit": "2022-01-06T09:12:21Z",
+            "owner": "zhanjun717",
+            "repo": "STGAT",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ICDE A Stitch in Time Saves Nine: Enabling Early Anomaly Detection with Correlation Analysis CAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 600937697,
+            "language": null,
+            "last_commit": "2023-05-27T07:23:30Z",
+            "owner": "YihaoAng",
+            "repo": "CAD",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ICME A MASKED ATTENTION NETWORK WITH QUERY SPARSITY MEASUREMENT FOR TIME SERIES ANOMALY DETECTION MAN-QSM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 634522816,
+            "language": "Python",
+            "last_commit": "2023-09-13T07:41:47Z",
+            "owner": "zeg-datamining",
+            "repo": "MAN-QSM",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ICML Prototype-oriented unsupervised anomaly detection for multivariate time series PUAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645730636,
+            "language": "Python",
+            "last_commit": "2024-04-07T08:37:07Z",
+            "owner": "LiYuxin321",
+            "repo": "PUAD",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ICLR UNSUPERVISED MODEL SELECTION FOR TIME-SERIES ANOMALY DETECTION tsad-model-selection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 535886093,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-14T15:46:18Z",
+            "owner": "mononitogoswami",
+            "repo": "tsad-model-selection",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ICSE Heterogeneous Anomaly Detection for Software Systems via Semi-supervised Cross-modal Attention Hades/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 598038334,
+            "language": "Python",
+            "last_commit": "2024-11-14T08:22:20Z",
+            "owner": "BEbillionaireUSD",
+            "repo": "Hades",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "KDD DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection DCdetector",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 646312353,
+            "language": "Python",
+            "last_commit": "2023-10-09T02:18:54Z",
+            "owner": "DAMO-DI-ML",
+            "repo": "KDD2023-DCdetector",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "KDD ECGGAN: A Framework for Effective and Interpretable Electrocardiogram Anomaly Detection ECGGAN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 551332546,
+            "language": "Python",
+            "last_commit": "2022-10-19T02:54:28Z",
+            "owner": "wanghuazhang",
+            "repo": "ECGGAN",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "KDD Imputation-based Time-Series Anomaly Detection with ConditionalWeight-Incremental Diffusion Models DiffAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642384786,
+            "language": "Python",
+            "last_commit": "2023-09-06T13:21:07Z",
+            "owner": "ChunjingXiao",
+            "repo": "DiffAD",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "KDD Precursor-of-Anomaly Detection for Irregular Time Series PAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642727390,
+            "language": "Python",
+            "last_commit": "2024-10-25T03:00:19Z",
+            "owner": "sheoyon-jhin",
+            "repo": "PAD",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "NeurIPS (NIPS) Nominality Score Conditioned Time Series Anomaly Detection by PointSequential Reconstruction NPSR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 708926924,
+            "language": "Python",
+            "last_commit": "2023-11-03T03:48:33Z",
+            "owner": "andrewlai61616",
+            "repo": "NPSR",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "TPCTC Multivariate Time Series Anomaly Detection: Fancy Algorithms and Flawed Evaluation Methodology MVTSEvalPaper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 661619325,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-15T15:46:19Z",
+            "owner": "amsehili",
+            "repo": "MVTSEvalPaper",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ΤΡΑΜΙ Adversarial Data Augmentation for HMM-based Anomaly Detection adv_data_aug_hmm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 339742515,
+            "language": "Python",
+            "last_commit": "2024-04-10T09:20:53Z",
+            "owner": "HHADAdversarialAugmentation",
+            "repo": "adv_data_aug_hmm",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "Transactions on Machine Learning Research TimeSeAD: Benchmarking Deep Multivariate Time-Series Anomaly Detection TimeSeAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 630814683,
+            "language": "Python",
+            "last_commit": "2025-06-10T10:40:56Z",
+            "owner": "wagner-d",
+            "repo": "TimeSeAD",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "VLDB Choose Wisely: An Extensive Evaluation of Model Selection for Anomaly Detection in Time Series MSAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 601643419,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-02T13:48:54Z",
+            "owner": "boniolp",
+            "repo": "MSAD",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "VLDB Unsupervised Time Series Outlier Detection with Diversity-Driven Convolutional Ensembles CAE-Ensemble",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 425295022,
+            "language": "Python",
+            "last_commit": "2022-01-21T20:19:52Z",
+            "owner": "d-gcc",
+            "repo": "CAE-Ensemble",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "WSDM Adversarial Autoencoder for Unsupervised Time Series Anomaly Detection and Interpretation DAEMON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 329179405,
+            "language": "Python",
+            "last_commit": "2021-12-06T15:44:21Z",
+            "owner": "Sherlock-C",
+            "repo": "DAEMON",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "IEEE TAES An Anomaly Detection Method for Satellites Using Monte Carlo Dropout SatAnomalyDetection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 450134299,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-09-01T20:17:09Z",
+            "owner": "DreamweaverU",
+            "repo": "SatAnomalyDetection",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "IEEE TITS Traffic Anomaly Detection Exploiting Temporal Positioning of Flow-Density Samples labeled_traffic_data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 578382165,
+            "language": "Python",
+            "last_commit": "2025-11-25T04:24:32Z",
+            "owner": "imaantaheri",
+            "repo": "labeled_traffic_data",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "TKDE Deep Isolation Forest for Anomaly Detection deep-iforest, DeepOD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 503210853,
+            "language": "Python",
+            "last_commit": "2024-06-17T02:43:01Z",
+            "owner": "xuhongzuo",
+            "repo": "deep-iforest",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "TKDE GAN-Based Anomaly Detection for Multivariate Time Series Using Polluted Training Set FGANomaly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 409220338,
+            "language": "Python",
+            "last_commit": "2021-09-22T14:01:31Z",
+            "owner": "sxxmason",
+            "repo": "FGANomaly",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "TKDE Time Series Anomaly Detection With Adversarial Reconstruction Networks BeatGAN.ipynb, BeatGAN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 289442982,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-30T13:00:15Z",
+            "owner": "stair-team",
+            "repo": "spartan2-tutorials",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "IEEE ICC Satellite Anomaly Detection Using Variance Based Genetic Ensemble of Neural Networks ICC2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 553064922,
+            "language": "Python",
+            "last_commit": "2022-10-21T16:43:21Z",
+            "owner": "aminmalekisadr",
+            "repo": "ICC2023",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "IOTJ Multi-view Graph Contrastive Learning for Multivariate Time Series Anomaly Detection in IoT MGCLAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627712916,
+            "language": "Python",
+            "last_commit": "2023-11-03T00:57:36Z",
+            "owner": "shuxin-qin",
+            "repo": "MGCLAD",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "IOTJ Multiview Graph Contrastive Learning for Multivariate Time-Series Anomaly Detection in IoT MGCLAD (compelete code is coming soon !)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627712916,
+            "language": "Python",
+            "last_commit": "2023-11-03T00:57:36Z",
+            "owner": "shuxin-qin",
+            "repo": "MGCLAD",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "Information Fusion MST-GAT A multimodal spatial-temporal graph attention network for time series anomaly detection mtad-gat (non-official)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352438763,
+            "language": "Python",
+            "last_commit": "2021-04-24T20:25:12Z",
+            "owner": "mangushev",
+            "repo": "mtad-gat",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "KBS M3GAN A masking strategy with a mutable filter for multidimensional anomaly detection M3GAN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628089473,
+            "language": "Python",
+            "last_commit": "2023-04-28T20:01:37Z",
+            "owner": "SLZWVICTOR",
+            "repo": "M3GAN",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "KBS Robust anomaly detection for multivariate time series through temporal GCNs and attention-based VAE MUTANT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 438209862,
+            "language": "Python",
+            "last_commit": "2023-03-24T13:47:45Z",
+            "owner": "Coac-syf",
+            "repo": "MUTANT",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "Nerual Networks An Adversarial Time-Frequency Reconstruction Network for Unsupervised Anomaly Detection ATF-UAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 581034334,
+            "language": "Python",
+            "last_commit": "2023-09-10T13:45:34Z",
+            "owner": "wzhSteve",
+            "repo": "ATF-UAD",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "RE & SS A graph embedded in graph framework with dual-sequence input for efficient anomaly detection of complex equipment under insufficient samples GG_Nets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 631182917,
+            "language": "Python",
+            "last_commit": "2023-07-21T03:46:45Z",
+            "owner": "Haodong-Yan",
+            "repo": "GG_Nets",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "TNNLS An Evaluation of Anomaly Detection and Diagnosis in Multivariate Time Series (& Supplementary Information) mvts-ano-eval",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 384609041,
+            "language": "Python",
+            "last_commit": "2023-05-09T04:34:16Z",
+            "owner": "astha-chem",
+            "repo": "mvts-ano-eval",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "TNNLS Correlation-aware Spatial-Temporal Graph Learning for Multivariate Time-series Anomaly Detection CST-GL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 469599253,
+            "language": "Python",
+            "last_commit": "2023-11-14T13:37:32Z",
+            "owner": "huankoh",
+            "repo": "CST-GL",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "KDD '22 Learning Sparse Latent Graph Representations for Anomaly Detection in Multivariate Time Series FuSAGNet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 616824517,
+            "language": "Python",
+            "last_commit": "2023-10-13T07:43:46Z",
+            "owner": "seansihohan",
+            "repo": "FuSAGNet",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "KDD '22 Adaptive Model Pooling for Online Deep Anomaly Detection from a Complex Evolving Data Stream ARCUS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 501195784,
+            "language": "Python",
+            "last_commit": "2026-05-28T15:14:57Z",
+            "owner": "kaist-dmlab",
+            "repo": "ARCUS",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "VLDB '22 TranAD Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data TranAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 343344143,
+            "language": "Python",
+            "last_commit": "2024-07-25T11:06:31Z",
+            "owner": "imperial-qore",
+            "repo": "TranAD",
+            "stars": 699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "VLDB '22 TSB-UAD: An End-to-End Benchmark Suite for Univariate Time-Series Anomaly Detection TSB-UAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 413172367,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-03T22:06:34Z",
+            "owner": "thedatumorg",
+            "repo": "TSB-UAD",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "VLDB '22 Volume Under the Surface: A New Accuracy Evaluation Measure for Time-Series Anomaly Detection VUS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 495521653,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T08:41:59Z",
+            "owner": "thedatumorg",
+            "repo": "VUS",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "VLDB '22 A New Distributional Treatment for Time Series and An Anomaly Detection Investigation IDK/TS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 321521341,
+            "language": "TypeScript",
+            "last_commit": "2025-10-17T06:35:57Z",
+            "owner": "IsolationKernel",
+            "repo": "Codes",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ICLR '22 ANOMALY TRANSFORMER: TIME SERIES ANOMALY DETECTION WITH ASSOCIATION DISCREPANCY Anomaly-Transformer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 484269010,
+            "language": "Python",
+            "last_commit": "2023-12-29T11:36:58Z",
+            "owner": "thuml",
+            "repo": "Anomaly-Transformer",
+            "stars": 1037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ICML '22 Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection DVGCRN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 577128645,
+            "language": "Python",
+            "last_commit": "2022-12-12T03:02:04Z",
+            "owner": "SigmaLab01",
+            "repo": "DVGCRN",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ICDE '22 From Chaos to Clarity: Time Series Anomaly Detection in Astronomical Observations AERO",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 724165724,
+            "language": "Python",
+            "last_commit": "2024-09-28T10:44:39Z",
+            "owner": "XinliHao",
+            "repo": "AERO",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ICDE '22 Anomaly Detection in Time Series with Robust Variational Quasi-Recurrent Autoencoders Bi-VQRAE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 450438037,
+            "language": "Python",
+            "last_commit": "2022-01-30T21:56:49Z",
+            "owner": "tungk",
+            "repo": "Bi-VQRAE",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "IEEE TKDE '22 Time Series Anomaly Detection with Adversarial Reconstruction Networks BeatGAN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 289442982,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-30T13:00:15Z",
+            "owner": "stair-team",
+            "repo": "spartan2-tutorials",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "IEEE J. Sel. Areas Commun. '22 Efficient KPI Anomaly Detection Through Transfer Learning for Large-Scale Web Services AnoTransfer-code, AnoTransfer-data",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 438472359,
+            "language": "Python",
+            "last_commit": "2022-02-26T07:01:31Z",
+            "owner": "alumik",
+            "repo": "AnoTransfer-code",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "IEEE BigData '22 Decomposed Transformer with Frequency Attention for Multivariate Time Series Anomaly Detection DecomposedTransAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 530028194,
+            "language": "Python",
+            "last_commit": "2022-08-29T06:28:22Z",
+            "owner": "shuxin-qin",
+            "repo": "DecomposedTransAD",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "IEEE BigData '22 A Semi-Supervised Learning Approach for Abnormal Event Prediction on Large Network Operation Time-Series Data semisup-abnormal-event-prediction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 436838283,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-01-10T19:21:22Z",
+            "owner": "knowledge-computing",
+            "repo": "semisup-abnormal-event-prediction",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "IEEE HPCC '22 FedTADBench Federated Time-series Anomaly Detection Benchmark FedTADBench",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 538468577,
+            "language": "Python",
+            "last_commit": "2023-01-14T04:17:59Z",
+            "owner": "fanxingliu2020",
+            "repo": "FedTADBench",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ESWA '22 A space-embedding strategy for anomaly detection in multivariate time series SESAD_V1.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 384591913,
+            "language": "Python",
+            "last_commit": "2021-07-10T02:22:22Z",
+            "owner": "JakeJiUThealth",
+            "repo": "SESAD_V1.0",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "Arxiv '22 A Comparative Study on Unsupervised Anomaly Detection for Time Series Experiments and Analysis ADTS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 429060850,
+            "language": "Python",
+            "last_commit": "2023-11-25T08:59:22Z",
+            "owner": "yan20191113",
+            "repo": "ADTS",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "KDD '21 Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding InterFusion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 372532533,
+            "language": "Python",
+            "last_commit": "2021-09-02T16:30:49Z",
+            "owner": "zhhlee",
+            "repo": "InterFusion",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "KDD '21 Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering NSIBF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 337104002,
+            "language": "Python",
+            "last_commit": "2023-01-23T05:00:08Z",
+            "owner": "cfeng783",
+            "repo": "NSIBF",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "VLDB '21 Exathlon: A Benchmark for Explainable Anomaly Detection over Time Series exathlon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 389924693,
+            "language": "Python",
+            "last_commit": "2024-03-13T12:49:37Z",
+            "owner": "exathlonbenchmark",
+            "repo": "exathlon",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "nips '21 Revisiting Time Series Outlier Detection: Definitions and Benchmarks tods",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293719013,
+            "language": "Python",
+            "last_commit": "2023-09-11T15:48:11Z",
+            "owner": "datamllab",
+            "repo": "tods",
+            "stars": 1666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "WWW '21 SDFVAE Static and Dynamic Factorized VAE for Anomaly Detection of Multivariate CDN KPIs SDFVAE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 305105713,
+            "language": "Python",
+            "last_commit": "2021-03-11T04:53:25Z",
+            "owner": "dlagul",
+            "repo": "SDFVAE",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "AAAI '21 Graph Neural Network-Based Anomaly Detection in Multivariate Time Series GDN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 337311971,
+            "language": "Python",
+            "last_commit": "2023-07-28T03:00:05Z",
+            "owner": "d-ailin",
+            "repo": "GDN",
+            "stars": 611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "ICDE '21 GRAB: Finding Time Series Natural Structures via A Novel Graph-based Scheme GRAB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 749049312,
+            "language": "MATLAB",
+            "last_commit": "2026-07-21T04:10:25Z",
+            "owner": "lzz19980125",
+            "repo": "awesome-time-series-segmentation-papers",
+            "stars": 547
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "KDD '20 USAD UnSupervised Anomaly Detection on Multivariate Time Series usad",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 285828067,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-18T09:04:09Z",
+            "owner": "manigalati",
+            "repo": "usad",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "NeurIPS '20 Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network THOC-Pytorch (unofficial implementation)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 582297808,
+            "language": "Python",
+            "last_commit": "2022-12-29T16:05:45Z",
+            "owner": "carrtesy",
+            "repo": "THOC-Pytorch",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "KDD Workshop MiLeTS '20 Driver2vec Driver Identification from Automotive Data Driver2vec",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279711720,
+            "language": "Python",
+            "last_commit": "2020-07-14T23:20:23Z",
+            "owner": "JingboYang",
+            "repo": "driver2vec",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "IEEE TIST '20 Cut-n-Reveal: Time-Series Segmentations with Explanations 🌟 Cut-n-Reveal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 414042532,
+            "language": "MATLAB",
+            "last_commit": "2021-10-06T06:01:14Z",
+            "owner": "AdityaLab",
+            "repo": "Cut-n-Reveal",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "ACM Trans. Comput. Healthcare '20 mSIMPAD: Efficient and Robust Mining of Successive Similar Patterns of Multiple Lengths in Time Series 🌟 mSIMPAD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 252451140,
+            "language": "Python",
+            "last_commit": "2020-12-23T12:53:59Z",
+            "owner": "chuntungli",
+            "repo": "mSIMPAD",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Pattern Recognit. Lett. '20 Memetic algorithm for multivariate time-series segmentation 🌟 ma_mts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255265952,
+            "language": "MATLAB",
+            "last_commit": "2020-04-13T08:05:43Z",
+            "owner": "hlim-kist",
+            "repo": "ma_mts",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Arxiv '20 An Evaluation of Change Point Detection Algorithms 🌟 TCPDBench",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 232149650,
+            "language": null,
+            "last_commit": "2025-07-31T18:20:05Z",
+            "owner": "alan-turing-institute",
+            "repo": "TCPDBench",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "IEEE Big Data '20 TadGAN Time Series Anomaly Detection Using Generative Adversarial Networks TadGAN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 328403141,
+            "language": "Python",
+            "last_commit": "2021-09-30T05:51:14Z",
+            "owner": "arunppsg",
+            "repo": "TadGAN",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "IMWUT '20 ESPRESSO Entropy and ShaPe awaRe timE-Series SegmentatiOn for Processing Heterogeneous Sensor Data ESPRESSO",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278772679,
+            "language": "MATLAB",
+            "last_commit": "2022-07-10T20:08:41Z",
+            "owner": "cruiseresearchgroup",
+            "repo": "ESPRESSO",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "KDD '19 Dynamic Modeling and Forecasting of Time-evolving Data Streams OrbitMap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 264833217,
+            "language": "Python",
+            "last_commit": "2020-05-19T00:46:58Z",
+            "owner": "yasuko-matsubara",
+            "repo": "orbitmap",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "KDD '19 Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network OmniAnomaly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168827055,
+            "language": "Python",
+            "last_commit": "2024-03-03T00:44:49Z",
+            "owner": "NetManAIOps",
+            "repo": "OmniAnomaly",
+            "stars": 942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "Neurips '19 U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging 🌟 U-Time",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164857449,
+            "language": "Python",
+            "last_commit": "2026-06-24T21:33:18Z",
+            "owner": "perslev",
+            "repo": "U-Time",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "IJCAI '19 BeatGAN Anomalous Rhythm Detection using Adversarially Generated Time Series 🌟 BeatGAN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172826919,
+            "language": "Roff",
+            "last_commit": "2021-08-31T09:27:57Z",
+            "owner": "imbingox",
+            "repo": "BeatGAN",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "ICDM '19 Multi-aspect mining of complex sensor sequences 🌟 CubeMarker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 239654865,
+            "language": "C",
+            "last_commit": "2026-02-20T16:29:19Z",
+            "owner": "TakatoHonda",
+            "repo": "CubeMarker",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CIKM '19 Time-Series Aware Precision and Recall for Anomaly Detection TaPR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187566409,
+            "language": "Python",
+            "last_commit": "2021-12-21T07:49:12Z",
+            "owner": "wshw4ng",
+            "repo": "TaPR",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "ICANN '19 MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks MAD-GANs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164769611,
+            "language": "Python",
+            "last_commit": "2019-08-14T22:19:19Z",
+            "owner": "LiDan456",
+            "repo": "MAD-GANs",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "Adv. Data Anal. Classif. '19 Greedy Gaussian segmentation of multivariate time series 🌟 GGS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71188984,
+            "language": "Python",
+            "last_commit": "2023-01-02T08:27:50Z",
+            "owner": "cvxgrp",
+            "repo": "GGS",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "Neurocomputing '19 A hybrid dynamic exploitation barebones particle swarm optimisation algorithm for time series segmentation tssa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 223603001,
+            "language": "MATLAB",
+            "last_commit": "2019-12-30T11:08:57Z",
+            "owner": "ayrna",
+            "repo": "tssa",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "AAAI '19 A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data MSCRED",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191293598,
+            "language": "Python",
+            "last_commit": "2019-12-17T06:28:12Z",
+            "owner": "7fantasysz",
+            "repo": "MSCRED",
+            "stars": 152
+          }
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "AAAI '18 Automatic Segmentation of Data Sequences DASSA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 749049312,
+            "language": "MATLAB",
+            "last_commit": "2026-07-21T04:10:25Z",
+            "owner": "lzz19980125",
+            "repo": "awesome-time-series-segmentation-papers",
+            "stars": 547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "WWW '18 Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications donut",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115477704,
+            "language": "Python",
+            "last_commit": "2019-03-06T03:12:00Z",
+            "owner": "NetManAIOps",
+            "repo": "donut",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "IPCCC '18 Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder Bagel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188541814,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:12:50Z",
+            "owner": "NetManAIOps",
+            "repo": "Bagel",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "IEEE TKDE '18 BEATS Blocks of Eigenvalues Algorithm for Time series Segmentation 🌟 BEATS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73124474,
+            "language": "HTML",
+            "last_commit": "2018-10-08T17:03:12Z",
+            "owner": "auroragonzalez",
+            "repo": "BEATS",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "Arxiv '18 MASA: Motif-Aware State Assignment in Noisy Time Series Data MASA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147604457,
+            "language": "Python",
+            "last_commit": "2020-10-21T08:21:55Z",
+            "owner": "snap-stanford",
+            "repo": "masa",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "KDD '18 Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding telemanom",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135760903,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-17T13:42:45Z",
+            "owner": "khundman",
+            "repo": "telemanom",
+            "stars": 1186
+          }
+        }
+      ],
+      "title": "2018"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T17:30:13.905Z",
+    "last_updated": "2026-08-24T14:41:49.414Z",
     "original_repository": "lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms",
     "original_repository_id": 749049710,
     "original_repository_sha": "aa25e0e12768b8883c3f9310f0dd91dc84e21570",
