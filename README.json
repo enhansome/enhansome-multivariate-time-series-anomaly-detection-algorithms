@@ -1443,7 +1443,7 @@
             "last_commit": "2021-09-02T16:30:49Z",
             "owner": "zhhlee",
             "repo": "InterFusion",
-            "stars": 238
+            "stars": 239
           }
         },
         {
@@ -1554,7 +1554,7 @@
             "last_commit": "2024-03-18T09:04:09Z",
             "owner": "manigalati",
             "repo": "usad",
-            "stars": 268
+            "stars": 270
           }
         },
         {
@@ -1934,7 +1934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:34:44.820Z",
+    "last_updated": "2026-08-25T17:40:09.121Z",
     "original_repository": "lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms",
     "original_repository_id": 749049710,
     "original_repository_sha": "aa25e0e12768b8883c3f9310f0dd91dc84e21570",
