@@ -771,7 +771,7 @@
             "last_commit": "2024-11-14T08:22:20Z",
             "owner": "BEbillionaireUSD",
             "repo": "Hades",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -1272,7 +1272,7 @@
             "last_commit": "2023-12-29T11:36:58Z",
             "owner": "thuml",
             "repo": "Anomaly-Transformer",
-            "stars": 1037
+            "stars": 1038
           }
         },
         {
@@ -1518,7 +1518,7 @@
             "last_commit": "2023-07-28T03:00:05Z",
             "owner": "d-ailin",
             "repo": "GDN",
-            "stars": 611
+            "stars": 612
           }
         },
         {
@@ -1926,7 +1926,7 @@
             "last_commit": "2025-01-17T13:42:45Z",
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1186
+            "stars": 1187
           }
         }
       ],
@@ -1934,7 +1934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:40:09.121Z",
+    "last_updated": "2026-08-26T19:14:51.057Z",
     "original_repository": "lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms",
     "original_repository_id": 749049710,
     "original_repository_sha": "aa25e0e12768b8883c3f9310f0dd91dc84e21570",
