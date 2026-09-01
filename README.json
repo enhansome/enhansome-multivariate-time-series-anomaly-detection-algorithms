@@ -852,7 +852,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2024-04-29T06:47:25Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "Yu-Lingrui",
             "repo": "DTAAD",
             "stars": 77,
@@ -1155,7 +1155,7 @@
             "open_issues": 24,
             "owner": "DAMO-DI-ML",
             "repo": "KDD2023-DCdetector",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -1900,7 +1900,7 @@
             "open_issues": 34,
             "owner": "thuml",
             "repo": "Anomaly-Transformer",
-            "stars": 1039,
+            "stars": 1040,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2254,7 +2254,7 @@
             "open_issues": 48,
             "owner": "d-ailin",
             "repo": "GDN",
-            "stars": 612,
+            "stars": 613,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:52:57.765Z",
+    "last_updated": "2026-09-01T19:53:29.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
