@@ -1155,7 +1155,7 @@
             "open_issues": 24,
             "owner": "DAMO-DI-ML",
             "repo": "KDD2023-DCdetector",
-            "stars": 275,
+            "stars": 274,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -1792,7 +1792,7 @@
             "open_issues": 2,
             "owner": "imperial-qore",
             "repo": "TranAD",
-            "stars": 700,
+            "stars": 701,
             "topics": [
               "adversarial-learning",
               "anomaly-detection",
@@ -1851,7 +1851,7 @@
             "open_issues": 1,
             "owner": "thedatumorg",
             "repo": "VUS",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "accuracy-score",
               "anomaly-detection",
@@ -2254,7 +2254,7 @@
             "open_issues": 48,
             "owner": "d-ailin",
             "repo": "GDN",
-            "stars": 613,
+            "stars": 612,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2554,7 +2554,7 @@
             "open_issues": 31,
             "owner": "NetManAIOps",
             "repo": "OmniAnomaly",
-            "stars": 945,
+            "stars": 947,
             "topics": [
               "code",
               "dataset"
@@ -2680,7 +2680,7 @@
             "open_issues": 20,
             "owner": "LiDan456",
             "repo": "MAD-GANs",
-            "stars": 583,
+            "stars": 584,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:43:39.818Z",
+    "last_updated": "2026-09-03T19:45:28.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
