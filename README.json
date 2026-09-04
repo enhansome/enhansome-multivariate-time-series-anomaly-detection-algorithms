@@ -1723,7 +1723,7 @@
             "open_issues": 5,
             "owner": "huankoh",
             "repo": "CST-GL",
-            "stars": 88,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2554,7 +2554,7 @@
             "open_issues": 31,
             "owner": "NetManAIOps",
             "repo": "OmniAnomaly",
-            "stars": 947,
+            "stars": 948,
             "topics": [
               "code",
               "dataset"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:45:28.650Z",
+    "last_updated": "2026-09-04T19:27:53.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
