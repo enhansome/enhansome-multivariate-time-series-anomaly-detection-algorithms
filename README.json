@@ -813,7 +813,7 @@
             "open_issues": 13,
             "owner": "zqhang",
             "repo": "MTGFLOW",
-            "stars": 79,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:30:21.385Z",
+    "last_updated": "2026-09-08T19:51:59.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
