@@ -1314,7 +1314,7 @@
             "open_issues": 5,
             "owner": "wagner-d",
             "repo": "TimeSeAD",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2554,7 +2554,7 @@
             "open_issues": 31,
             "owner": "NetManAIOps",
             "repo": "OmniAnomaly",
-            "stars": 948,
+            "stars": 949,
             "topics": [
               "code",
               "dataset"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:34:46.767Z",
+    "last_updated": "2026-09-11T19:36:00.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
