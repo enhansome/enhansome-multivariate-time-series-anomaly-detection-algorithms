@@ -1792,7 +1792,7 @@
             "open_issues": 2,
             "owner": "imperial-qore",
             "repo": "TranAD",
-            "stars": 702,
+            "stars": 703,
             "topics": [
               "adversarial-learning",
               "anomaly-detection",
@@ -2554,7 +2554,7 @@
             "open_issues": 31,
             "owner": "NetManAIOps",
             "repo": "OmniAnomaly",
-            "stars": 949,
+            "stars": 950,
             "topics": [
               "code",
               "dataset"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:36:00.167Z",
+    "last_updated": "2026-09-12T19:13:03.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
