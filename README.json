@@ -449,7 +449,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-07-15T03:23:13Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "ForestsKing",
             "repo": "D3R",
             "stars": 96,
@@ -939,7 +939,7 @@
             "open_issues": 0,
             "owner": "sondsorb",
             "repo": "TSAD_eval",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T19:13:03.305Z",
+    "last_updated": "2026-09-13T19:22:31.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
