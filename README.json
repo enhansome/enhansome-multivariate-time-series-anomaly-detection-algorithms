@@ -449,7 +449,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-07-15T03:23:13Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "ForestsKing",
             "repo": "D3R",
             "stars": 96,
@@ -1792,7 +1792,7 @@
             "open_issues": 2,
             "owner": "imperial-qore",
             "repo": "TranAD",
-            "stars": 702,
+            "stars": 703,
             "topics": [
               "adversarial-learning",
               "anomaly-detection",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:53:51.517Z",
+    "last_updated": "2026-09-15T20:10:42.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
