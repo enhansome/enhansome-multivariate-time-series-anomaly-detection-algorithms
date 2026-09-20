@@ -1134,7 +1134,7 @@
             "open_issues": 3,
             "owner": "BEbillionaireUSD",
             "repo": "Hades",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -1900,7 +1900,7 @@
             "open_issues": 34,
             "owner": "thuml",
             "repo": "Anomaly-Transformer",
-            "stars": 1043,
+            "stars": 1042,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:17:22.504Z",
+    "last_updated": "2026-09-20T19:22:30.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
