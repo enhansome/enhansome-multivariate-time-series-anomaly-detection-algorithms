@@ -544,7 +544,7 @@
             "open_issues": 1,
             "owner": "xuhongzuo",
             "repo": "couta",
-            "stars": 77,
+            "stars": 76,
             "topics": [
               "anomaly-detection",
               "one-class-classification",
@@ -765,7 +765,7 @@
             "open_issues": 1,
             "owner": "dawnvince",
             "repo": "EasyTSAD",
-            "stars": 128,
+            "stars": 129,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -1197,7 +1197,7 @@
             "open_issues": 9,
             "owner": "ChunjingXiao",
             "repo": "DiffAD",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "anomaly-detection",
               "data-imputation",
@@ -1457,7 +1457,7 @@
             "open_issues": 1,
             "owner": "xuhongzuo",
             "repo": "deep-iforest",
-            "stars": 116,
+            "stars": 115,
             "topics": [
               "anomaly-detection",
               "isolation-forest",
@@ -1819,7 +1819,7 @@
             "open_issues": 5,
             "owner": "thedatumorg",
             "repo": "TSB-UAD",
-            "stars": 222,
+            "stars": 220,
             "topics": [
               "anomaly-detection",
               "anomaly-detection-algorithm",
@@ -1900,7 +1900,7 @@
             "open_issues": 34,
             "owner": "thuml",
             "repo": "Anomaly-Transformer",
-            "stars": 1043,
+            "stars": 1042,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2141,7 +2141,7 @@
             "open_issues": 6,
             "owner": "zhhlee",
             "repo": "InterFusion",
-            "stars": 239,
+            "stars": 240,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:59:31.413Z",
+    "last_updated": "2026-09-22T20:08:04.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
