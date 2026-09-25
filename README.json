@@ -614,7 +614,7 @@
             "open_issues": 2,
             "owner": "MengjieZhao",
             "repo": "dyedgegat",
-            "stars": 20,
+            "stars": 21,
             "topics": [
               "anomaly-detection",
               "gnn-algorithm",
@@ -2254,7 +2254,7 @@
             "open_issues": 48,
             "owner": "d-ailin",
             "repo": "GDN",
-            "stars": 612,
+            "stars": 611,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:23:56.717Z",
+    "last_updated": "2026-09-25T20:24:05.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
