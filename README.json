@@ -2272,7 +2272,7 @@
             "language": "MATLAB",
             "license": "GPL-3.0",
             "last_commit": "2026-07-21T04:10:25Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "lzz19980125",
             "repo": "awesome-time-series-segmentation-papers",
             "stars": 545,
@@ -2775,7 +2775,7 @@
             "language": "MATLAB",
             "license": "GPL-3.0",
             "last_commit": "2026-07-21T04:10:25Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "lzz19980125",
             "repo": "awesome-time-series-segmentation-papers",
             "stars": 545,
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:02:32.963Z",
+    "last_updated": "2026-10-06T21:35:21.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
