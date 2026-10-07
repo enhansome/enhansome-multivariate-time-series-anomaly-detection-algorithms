@@ -172,7 +172,7 @@
             "open_issues": 0,
             "owner": "kaist-dmlab",
             "repo": "DualTF",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2183,7 +2183,7 @@
             "open_issues": 2,
             "owner": "exathlonbenchmark",
             "repo": "exathlon",
-            "stars": 70,
+            "stars": 71,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2271,8 +2271,8 @@
             "id": 749049312,
             "language": "MATLAB",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-21T04:10:25Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-07T11:10:10Z",
+            "open_issues": 0,
             "owner": "lzz19980125",
             "repo": "awesome-time-series-segmentation-papers",
             "stars": 545,
@@ -2578,7 +2578,7 @@
             "open_issues": 9,
             "owner": "perslev",
             "repo": "U-Time",
-            "stars": 318,
+            "stars": 319,
             "topics": [
               "deep-learning",
               "fully-convolutional-networks",
@@ -2774,8 +2774,8 @@
             "id": 749049312,
             "language": "MATLAB",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-21T04:10:25Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-07T11:10:10Z",
+            "open_issues": 0,
             "owner": "lzz19980125",
             "repo": "awesome-time-series-segmentation-papers",
             "stars": 545,
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:35:21.720Z",
+    "last_updated": "2026-10-07T21:56:35.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
