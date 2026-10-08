@@ -386,7 +386,7 @@ author = {Ling Wang and Qinchun Xu and Zezhong Li},
 | 2021 | *nips '21*                       | Revisiting Time Series Outlier Detection: Definitions and Benchmarks                                                                | [tods](https://github.com/datamllab/tods) ⭐ 1,666 \| 🐛 79 \| 🌐 Python \| 📅 2023-09-11                                                         |
 | 2021 | *nips '21*                       | Online false discovery rate control for anomaly detection in time series                                                            | None                                                                                                                                             |
 | 2021 | *WWW '21*                        | SDFVAE Static and Dynamic Factorized VAE for Anomaly Detection of Multivariate CDN KPIs                                             | [SDFVAE](https://github.com/dlagul/SDFVAE) ⭐ 17 \| 🐛 2 \| 🌐 Python \| 📅 2021-03-11                                                            |
-| 2021 | *AAAI '21*                       | Graph Neural Network-Based Anomaly Detection in Multivariate Time Series                                                            | [GDN](https://github.com/d-ailin/GDN) ⭐ 611 \| 🐛 48 \| 🌐 Python \| 📅 2023-07-28                                                               |
+| 2021 | *AAAI '21*                       | Graph Neural Network-Based Anomaly Detection in Multivariate Time Series                                                            | [GDN](https://github.com/d-ailin/GDN) ⭐ 612 \| 🐛 48 \| 🌐 Python \| 📅 2023-07-28                                                               |
 | 2021 | *ICDE '21*                       | GRAB: Finding Time Series Natural Structures via A Novel Graph-based Scheme                                                         | [GRAB](https://github.com/lzz19980125/awesome-time-series-segmentation-papers/tree/main/GRAB-master) ⭐ 545 \| 🐛 0 \| 🌐 MATLAB \| 📅 2026-10-07 |
 | 2021 | *ICDE '21*                       | DAEMON: Unsupervised Anomaly Detection and Interpretation for Multivariate Time Series                                              | None                                                                                                                                             |
 | 2021 | *CVPR WorkShop '21*              | Spacecraft Time-Series Anomaly Detection Using Transfer Learning                                                                    | None                                                                                                                                             |
@@ -476,4 +476,4 @@ author = {Ling Wang and Qinchun Xu and Zezhong Li},
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

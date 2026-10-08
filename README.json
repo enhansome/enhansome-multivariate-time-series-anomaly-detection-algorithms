@@ -2254,7 +2254,7 @@
             "open_issues": 48,
             "owner": "d-ailin",
             "repo": "GDN",
-            "stars": 611,
+            "stars": 612,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:56:35.209Z",
+    "last_updated": "2026-10-08T22:00:15.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
