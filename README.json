@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "zshhans",
             "repo": "MSD-Mixer",
-            "stars": 99,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -1723,7 +1723,7 @@
             "open_issues": 5,
             "owner": "huankoh",
             "repo": "CST-GL",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -1900,7 +1900,7 @@
             "open_issues": 34,
             "owner": "thuml",
             "repo": "Anomaly-Transformer",
-            "stars": 1043,
+            "stars": 1044,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2141,7 +2141,7 @@
             "open_issues": 6,
             "owner": "zhhlee",
             "repo": "InterFusion",
-            "stars": 241,
+            "stars": 242,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2275,7 +2275,7 @@
             "open_issues": 0,
             "owner": "lzz19980125",
             "repo": "awesome-time-series-segmentation-papers",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -2322,7 +2322,7 @@
             "open_issues": 6,
             "owner": "manigalati",
             "repo": "usad",
-            "stars": 273,
+            "stars": 274,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2680,7 +2680,7 @@
             "open_issues": 20,
             "owner": "LiDan456",
             "repo": "MAD-GANs",
-            "stars": 584,
+            "stars": 585,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2778,7 +2778,7 @@
             "open_issues": 0,
             "owner": "lzz19980125",
             "repo": "awesome-time-series-segmentation-papers",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:32:34.368Z",
+    "last_updated": "2026-10-11T20:55:19.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
