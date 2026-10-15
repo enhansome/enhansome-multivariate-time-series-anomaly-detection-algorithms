@@ -1155,7 +1155,7 @@
             "open_issues": 24,
             "owner": "DAMO-DI-ML",
             "repo": "KDD2023-DCdetector",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2680,7 +2680,7 @@
             "open_issues": 20,
             "owner": "LiDan456",
             "repo": "MAD-GANs",
-            "stars": 585,
+            "stars": 584,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2913,7 +2913,7 @@
             "open_issues": 20,
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1200,
+            "stars": 1201,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:37:08.791Z",
+    "last_updated": "2026-10-15T20:17:17.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
