@@ -1819,7 +1819,7 @@
             "open_issues": 5,
             "owner": "thedatumorg",
             "repo": "TSB-UAD",
-            "stars": 220,
+            "stars": 221,
             "topics": [
               "anomaly-detection",
               "anomaly-detection-algorithm",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:17:17.200Z",
+    "last_updated": "2026-10-16T19:54:28.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
