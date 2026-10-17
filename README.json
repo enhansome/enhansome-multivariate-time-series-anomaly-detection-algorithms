@@ -1224,7 +1224,7 @@
             "open_issues": 3,
             "owner": "sheoyon-jhin",
             "repo": "PAD",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "anomalydetection",
               "kdd2023",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:54:28.108Z",
+    "last_updated": "2026-10-17T19:16:26.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
