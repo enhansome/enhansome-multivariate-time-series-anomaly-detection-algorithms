@@ -308,7 +308,7 @@
             "open_issues": 0,
             "owner": "HPI-Information-Systems",
             "repo": "AutoTSAD",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "anomaly-detection",
               "ensemble",
@@ -452,7 +452,7 @@
             "open_issues": 1,
             "owner": "ForestsKing",
             "repo": "D3R",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "diffusion-models",
               "time-series",
@@ -1900,7 +1900,7 @@
             "open_issues": 34,
             "owner": "thuml",
             "repo": "Anomaly-Transformer",
-            "stars": 1045,
+            "stars": 1044,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2204,7 +2204,7 @@
             "open_issues": 79,
             "owner": "datamllab",
             "repo": "tods",
-            "stars": 1667,
+            "stars": 1666,
             "topics": [
               "anomaly-detection",
               "automl",
@@ -2680,7 +2680,7 @@
             "open_issues": 20,
             "owner": "LiDan456",
             "repo": "MAD-GANs",
-            "stars": 584,
+            "stars": 583,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2913,7 +2913,7 @@
             "open_issues": 20,
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1200,
+            "stars": 1201,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:23:22.023Z",
+    "last_updated": "2026-10-19T21:26:42.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
@@ -2945,7 +2945,7 @@
       "open_issues": 1,
       "owner": "lzz19980125",
       "repo": "awesome-multivariate-time-series-anomaly-detection-algorithms",
-      "stars": 82,
+      "stars": 81,
       "topics": [
         "anomaly-detection",
         "anomaly-detection-algorithm",
