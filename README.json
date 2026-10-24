@@ -1851,7 +1851,7 @@
             "open_issues": 1,
             "owner": "thedatumorg",
             "repo": "VUS",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "accuracy-score",
               "anomaly-detection",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:21:07.030Z",
+    "last_updated": "2026-10-24T19:25:34.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
