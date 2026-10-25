@@ -151,7 +151,7 @@
             "open_issues": 2,
             "owner": "CSTCloudOps",
             "repo": "FCVAE",
-            "stars": 79,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:25:34.145Z",
+    "last_updated": "2026-10-25T19:32:23.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
