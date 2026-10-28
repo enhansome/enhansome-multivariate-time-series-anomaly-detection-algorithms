@@ -356,7 +356,7 @@
             "open_issues": 7,
             "owner": "17000cyh",
             "repo": "IMDiffusion",
-            "stars": 116,
+            "stars": 117,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -1792,7 +1792,7 @@
             "open_issues": 2,
             "owner": "imperial-qore",
             "repo": "TranAD",
-            "stars": 708,
+            "stars": 709,
             "topics": [
               "adversarial-learning",
               "anomaly-detection",
@@ -1819,7 +1819,7 @@
             "open_issues": 5,
             "owner": "thedatumorg",
             "repo": "TSB-UAD",
-            "stars": 221,
+            "stars": 222,
             "topics": [
               "anomaly-detection",
               "anomaly-detection-algorithm",
@@ -1851,7 +1851,7 @@
             "open_issues": 1,
             "owner": "thedatumorg",
             "repo": "VUS",
-            "stars": 99,
+            "stars": 100,
             "topics": [
               "accuracy-score",
               "anomaly-detection",
@@ -1900,7 +1900,7 @@
             "open_issues": 34,
             "owner": "thuml",
             "repo": "Anomaly-Transformer",
-            "stars": 1046,
+            "stars": 1047,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2913,7 +2913,7 @@
             "open_issues": 20,
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1201,
+            "stars": 1202,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:13:59.209Z",
+    "last_updated": "2026-10-28T21:37:11.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
