@@ -287,7 +287,7 @@
             "open_issues": 1,
             "owner": "zshhans",
             "repo": "MSD-Mixer",
-            "stars": 98,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:37:11.523Z",
+    "last_updated": "2026-10-29T21:44:32.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
