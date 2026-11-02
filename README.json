@@ -519,7 +519,7 @@
             "open_issues": 10,
             "owner": "xuhongzuo",
             "repo": "DeepOD",
-            "stars": 578,
+            "stars": 579,
             "topics": [
               "anomaly-detection",
               "deep-anomaly-detection",
@@ -1900,7 +1900,7 @@
             "open_issues": 34,
             "owner": "thuml",
             "repo": "Anomaly-Transformer",
-            "stars": 1048,
+            "stars": 1049,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2819,7 +2819,7 @@
             "open_issues": 25,
             "owner": "NetManAIOps",
             "repo": "donut",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "code"
             ]
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T21:06:48.798Z",
+    "last_updated": "2026-11-02T23:51:01.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
