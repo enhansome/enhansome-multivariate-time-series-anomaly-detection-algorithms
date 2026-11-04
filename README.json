@@ -477,7 +477,7 @@
             "open_issues": 1,
             "owner": "jackyue1994",
             "repo": "sub_adjacent_transformer",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -981,7 +981,7 @@
             "open_issues": 0,
             "owner": "dawnvince",
             "repo": "MTS_CAD",
-            "stars": 8,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2275,7 +2275,7 @@
             "open_issues": 0,
             "owner": "lzz19980125",
             "repo": "awesome-time-series-segmentation-papers",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -2554,7 +2554,7 @@
             "open_issues": 31,
             "owner": "NetManAIOps",
             "repo": "OmniAnomaly",
-            "stars": 955,
+            "stars": 957,
             "topics": [
               "code",
               "dataset"
@@ -2778,7 +2778,7 @@
             "open_issues": 0,
             "owner": "lzz19980125",
             "repo": "awesome-time-series-segmentation-papers",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:15:54.381Z",
+    "last_updated": "2026-11-04T22:33:17.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
