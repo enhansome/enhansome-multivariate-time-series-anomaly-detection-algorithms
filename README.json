@@ -1792,7 +1792,7 @@
             "open_issues": 2,
             "owner": "imperial-qore",
             "repo": "TranAD",
-            "stars": 708,
+            "stars": 709,
             "topics": [
               "adversarial-learning",
               "anomaly-detection",
@@ -2275,7 +2275,7 @@
             "open_issues": 0,
             "owner": "lzz19980125",
             "repo": "awesome-time-series-segmentation-papers",
-            "stars": 546,
+            "stars": 547,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -2778,7 +2778,7 @@
             "open_issues": 0,
             "owner": "lzz19980125",
             "repo": "awesome-time-series-segmentation-papers",
-            "stars": 546,
+            "stars": 547,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -2913,7 +2913,7 @@
             "open_issues": 20,
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1203,
+            "stars": 1204,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:33:17.711Z",
+    "last_updated": "2026-11-05T22:38:46.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
