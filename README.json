@@ -2575,7 +2575,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-24T21:33:18Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "perslev",
             "repo": "U-Time",
             "stars": 319,
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:01:12.212Z",
+    "last_updated": "2026-11-07T20:49:19.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",

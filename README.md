@@ -442,7 +442,7 @@ author = {Ling Wang and Qinchun Xu and Zezhong Li},
 | :--- | :----------------------------- | :--------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2019 | *KDD '19*                      | Dynamic Modeling and Forecasting of Time-evolving Data Streams                                             | [OrbitMap](https://github.com/yasuko-matsubara/orbitmap) ⭐ 15 \| 🐛 0 \| 🌐 Python \| 📅 2020-05-19![Stars](https://img.shields.io/github/stars/yasuko-matsubara/orbitmap) |
 | 2019 | *KDD '19*                      | Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network          | [OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly) ⭐ 957 \| 🐛 31 \| 🌐 Python \| 📅 2024-03-03                                                                     |
-| 2019 | *Neurips '19*                  | U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging 🌟             | [U-Time](https://github.com/perslev/U-Time) ⭐ 319 \| 🐛 9 \| 🌐 Python \| 📅 2026-06-24![Stars](https://img.shields.io/github/stars/perslev/U-Time)                        |
+| 2019 | *Neurips '19*                  | U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging 🌟             | [U-Time](https://github.com/perslev/U-Time) ⭐ 319 \| 🐛 10 \| 🌐 Python \| 📅 2026-06-24![Stars](https://img.shields.io/github/stars/perslev/U-Time)                       |
 | 2019 | *IJCAI '19*                    | BeatGAN Anomalous Rhythm Detection using Adversarially Generated Time Series 🌟                            | [BeatGAN](https://github.com/hi-bingo/BeatGAN) ⭐ 74 \| 🐛 1 \| 🌐 Roff \| 📅 2021-08-31![Stars](https://img.shields.io/github/stars/hi-bingo/BeatGAN)                      |
 | 2019 | *ICDM '19*                     | Multi-aspect mining of complex sensor sequences 🌟                                                         | [CubeMarker](https://github.com/TakatoHonda/CubeMarker) ⭐ 5 \| 🐛 0 \| 🌐 C \| 📅 2026-02-20![Stars](https://img.shields.io/github/stars/TakatoHonda/CubeMarker)           |
 | 2019 | *CIKM '19*                     | Automatic Sequential Pattern Mining in Data Streams                                                        | None                                                                                                                                                                       |
@@ -476,4 +476,4 @@ author = {Ling Wang and Qinchun Xu and Zezhong Li},
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
