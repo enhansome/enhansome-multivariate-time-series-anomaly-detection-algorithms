@@ -284,7 +284,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-08-26T10:44:11Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "zshhans",
             "repo": "MSD-Mixer",
             "stars": 99,
@@ -1819,7 +1819,7 @@
             "open_issues": 5,
             "owner": "thedatumorg",
             "repo": "TSB-UAD",
-            "stars": 222,
+            "stars": 223,
             "topics": [
               "anomaly-detection",
               "anomaly-detection-algorithm",
@@ -2575,7 +2575,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-24T21:33:18Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "perslev",
             "repo": "U-Time",
             "stars": 319,
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:49:19.025Z",
+    "last_updated": "2026-11-08T21:05:04.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
