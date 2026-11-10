@@ -1900,7 +1900,7 @@
             "open_issues": 34,
             "owner": "thuml",
             "repo": "Anomaly-Transformer",
-            "stars": 1050,
+            "stars": 1051,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2578,7 +2578,7 @@
             "open_issues": 9,
             "owner": "perslev",
             "repo": "U-Time",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "deep-learning",
               "fully-convolutional-networks",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:38:50.273Z",
+    "last_updated": "2026-11-10T22:18:22.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
@@ -2945,7 +2945,7 @@
       "open_issues": 1,
       "owner": "lzz19980125",
       "repo": "awesome-multivariate-time-series-anomaly-detection-algorithms",
-      "stars": 81,
+      "stars": 82,
       "topics": [
         "anomaly-detection",
         "anomaly-detection-algorithm",
