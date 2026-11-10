@@ -284,7 +284,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-08-26T10:44:11Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "zshhans",
             "repo": "MSD-Mixer",
             "stars": 99,
@@ -1900,7 +1900,7 @@
             "open_issues": 34,
             "owner": "thuml",
             "repo": "Anomaly-Transformer",
-            "stars": 1049,
+            "stars": 1050,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2578,7 +2578,7 @@
             "open_issues": 9,
             "owner": "perslev",
             "repo": "U-Time",
-            "stars": 319,
+            "stars": 320,
             "topics": [
               "deep-learning",
               "fully-convolutional-networks",
@@ -2819,7 +2819,7 @@
             "open_issues": 25,
             "owner": "NetManAIOps",
             "repo": "donut",
-            "stars": 481,
+            "stars": 480,
             "topics": [
               "code"
             ]
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:05:04.145Z",
+    "last_updated": "2026-11-10T00:38:50.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
