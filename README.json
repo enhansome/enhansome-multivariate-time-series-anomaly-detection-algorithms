@@ -2322,7 +2322,7 @@
             "open_issues": 6,
             "owner": "manigalati",
             "repo": "usad",
-            "stars": 275,
+            "stars": 276,
             "topics": []
           },
           "first_seen": "2026-08-29T00:56:47.676Z"
@@ -2554,7 +2554,7 @@
             "open_issues": 31,
             "owner": "NetManAIOps",
             "repo": "OmniAnomaly",
-            "stars": 959,
+            "stars": 960,
             "topics": [
               "code",
               "dataset"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:02:04.629Z",
+    "last_updated": "2026-11-21T22:08:47.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
