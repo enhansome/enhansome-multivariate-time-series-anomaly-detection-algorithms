@@ -2913,7 +2913,7 @@
             "open_issues": 20,
             "owner": "khundman",
             "repo": "telemanom",
-            "stars": 1203,
+            "stars": 1204,
             "topics": [
               "anomaly-detection",
               "deep-learning",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:25:15.984Z",
+    "last_updated": "2026-11-24T03:16:14.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
