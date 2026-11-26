@@ -2204,7 +2204,7 @@
             "open_issues": 79,
             "owner": "datamllab",
             "repo": "tods",
-            "stars": 1665,
+            "stars": 1666,
             "topics": [
               "anomaly-detection",
               "automl",
@@ -2554,7 +2554,7 @@
             "open_issues": 31,
             "owner": "NetManAIOps",
             "repo": "OmniAnomaly",
-            "stars": 960,
+            "stars": 961,
             "topics": [
               "code",
               "dataset"
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:21:20.281Z",
+    "last_updated": "2026-11-26T00:56:59.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
