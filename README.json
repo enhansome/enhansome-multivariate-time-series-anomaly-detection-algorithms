@@ -1335,7 +1335,7 @@
             "open_issues": 1,
             "owner": "boniolp",
             "repo": "MSAD",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "anomaly-detection",
               "anomalydetection",
@@ -1457,7 +1457,7 @@
             "open_issues": 1,
             "owner": "xuhongzuo",
             "repo": "deep-iforest",
-            "stars": 116,
+            "stars": 117,
             "topics": [
               "anomaly-detection",
               "isolation-forest",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:59:12.228Z",
+    "last_updated": "2026-11-28T00:28:58.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository contains a reading list of papers on multivariate time series anomaly detection. This repository is still being continuously improved.",
